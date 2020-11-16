@@ -11,5 +11,18 @@ LCD Display 2 x 16: 1602A
 RFID-reader: MFRC522
 NeoPixel 24-LED Ring: Adafruit
 
-Coded using Visual Studio Code, with PlatformIO added. 
+
+Software:
+Arduino IDE
+Visual Studio Code
+PlatformIO
+
+
+
+Pinouts:
+Check documentations online:
+
+
+
+
 
